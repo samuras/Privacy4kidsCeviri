@@ -1,3 +1,12 @@
+===ÇEVİRİ NOTLARI=======
+[
+*DIGITAL DEFENDERS --> D?J?TAL HAK BEKÇ?LER?/MUHAFIZLARI (Bekçi de muhafız da otorite çağrışımı yapıyor, farklı bir tavsiye güzel olurdu) 
+Ben şimdilik DİJİTAL SAVUNUCULAR diyeceğim
+*DATA INTRUDERS --> VERİ HIRSIZLARI
+*fight --> savaşmak yerine mücadele etmek kullanılabilir
+*İpuçlarından oluşan kelime orjinal metinde ARMOUR, bizimkinde de KALKAN olabilir. Hem 6 harfli olması, hem de türkçe karakter içermemesi avantajlı
+*your friend --> bir dost olarak çevirdim, siz ne dersiniz?]
+
 ===ORIGINAL TEXT=======
 
 YOUR GUIDE TO THE
@@ -5,33 +14,41 @@ DIGITAL DEFENDERS VS. DATA INTRUDERS
 TAKE CONTROL OF YOUR STUFF ONLINE
 PRIVACY FOR KIDS
 
-[DIGITAL DEFENDERS --> D?J?TAL HAK BEKÇ?LER?/MUHAFIZLARI (Bekçi de muhaf?z da otorite ça?r???m? yap?yor, farkl? bir tavsiye güzel olurdu) 
-Ben ?imdilik D?J?TAL SAVUNUCULAR diyece?im
-DATA INTRUDERS --> VER? HIRSIZLARI
-fight --> sava?mak yerine mücadele etmek kullan?labilir]
+
 
 [Cover text]
-?NTERNET. HAVALI, HIZLI VE EVENSEL.
-Ama ayn? zamanda karma??k da. Bazen, ne zaman risk alt?nda oldu?umuzu, ne zaman çevrimiçi özel bilgilerimizin di?er ki?iler taraf?ndan okunabilir ve kullan?labilir  oldu?unu fark edemeyebiliriz. ?ansl?y?z ki D?J?TAL SAVUNUCULARIN, ?eytani VER? HIRSIZLARIYLA mücadele etti?i paralel evrenimizde, kimin iyi kimin kötü oldu?u ortada.
+THE INTERNET. IT IS COOL, FAST AND GLOBAL.
+But it is also complex. Sometimes it can be difficult to see where we are at risk – and where our private stuff online can be read and used by others. 
+Luckily, in our parallel universe where the DIGITAL DEFENDERS fight the evil DATA INTRUDERS, it is easy to see who are the good and who are the bad guys.
+www.edri.org
+İNTERNET. HAVALI, HIZLI VE EVENSEL.
+Ama aynı zamanda karmaşık da. Bazen, ne zaman risk altında olduğumuzu, ne zaman çevrimiçi özel bilgilerimizin diğer kişiler tarafından okunabilir ve kullanılabilir  olduğunu fark edemeyebiliriz. şanslıyız ki DİJİTAL SAVUNUCULARIN, şeytani VER?İ HIRSIZLARIYLA mücadele ettiği paralel evrenimizde, kimin iyi kimin kötü olduğu ortada.
 www.edri.org
 
+Booklet edited by:
 Düzenleyenler:
 Kirsten Fiedler, EDRi
 Theresia Reinhold, EDRi
 
+
+Comics:
 Çizgi Roman:
 Gregor Sedlag
 
-Sanat ve tasar?m:
+Art & design by:
+Sanat ve tasarım:
 Gregor Sedlag
 Heini Jarvinen
 (EDRi-former illustrations)
 
+
 Special thanks to:
+Teşekkürler:
 Gloria González Fuster, VrijeUniversiteit Brussel (VUB)
 Hans Martens, Better Internet for Kids, EUN Partnership AISBL 
 
-Katk? verenler:
+Contributions by:
+Katkı verenler:
 ApTI Romania
 Bits of Freedom
 CCC / Chaos macht Schule
@@ -41,109 +58,160 @@ EDRi (Brussels office)
 Open Rights Group
 Mediamocracy
 
+Chapters:
+
+Chapter 1: What's the internet?
+Chapter 2: What's privacy?
+Chapter 3: Top three tips and tricks
+Chapter 4: Protect yourself on social networks
+Chapter 5: Smartphone security
+Chapter 6: Safer messaging
+Chapter 7: Surfing the internet
+Chapter 8: Password security
+Chapter 9: Photo and video sharing
+Chapter 10: Apps & tools we like
+Chapter 11: Hands-on guide for Signal
+
 Bölümler:
 
-Bölüm 1: ?nternet Nedir?
+Bölüm 1: İnternet Nedir?
 Bölüm 2: Mahremiyet nedir?
 Bölüm 3: En önemli 3 ipucu
 Bölüm 4: Kendinizi sosyal a?larda koruyun
-Bölüm 5: Ak?ll? telefon güvenli?i
+Bölüm 5: Akıllı telefon güvenli?i
 Bölüm 6: Daha güvenli mesajla?ma
 Bölüm 7: ?nternette sörf yapmak
 Bölüm 8: Parola güvenli?i
-Bölüm 9: Foto?raf ve video payla??m?
-Bölüm 10: Sevdi?imiz uygulamalar & araçlar
+Bölüm 9: Fotoğraf ve video paylaşımı
+Bölüm 10: Sevdiğimiz uygulamalar & araçlar
 Bölüm 11: Signal için uygulamal? rehber
 
 
 [Intro]
 
-?nternet. Haval?, h?zl? ve evrensel.
 
-Ama ayn? zamanda karma??k da. Bazen, ne zaman risk alt?nda oldu?umuzu, ne zaman çevrimiçi özel bilgilerimizin di?er ki?iler taraf?ndan okunabilir ve kullan?labilir  oldu?unu fark edemeyebiliriz.
+The internet. It is cool, fast and global.
+İnternet. Havalı, hızlı ve evrensel.
 
-?ansl?y?z ki D?J?TAL SAVUNUCULARIN, ?eytani VER? HIRSIZLARIYLA mücadele etti?i paralel evrenimizde, kimin iyi kimin kötü oldu?u ortada.
+But it is also complex. Sometimes it can be difficult to see where we are at risk – and where our private stuff online can be read and used by others.
+Ama aynı zamanda karmaşık da. Bazen, ne zaman risk altında olduğumuzu, ne zaman çevrimiçi özel bilgilerimizin di?er kişiler tarafından okunabilir ve kullanılabilir  olduğunu fark edemeyebiliriz.
 
-SAVUNUCULAR, kendinizi çevrimiçiyken koruyabilmeniz için sizlere baz? ipuçlar? gösterecekler. Size, HIRSIZLARLA mücadele edebilmeniz için öz savunma teknikleri ö?retecekler.
+Luckily, in our parallel universe where the Defenders fight the evil Intruders, it is easy to see who are the good and who are the bad guys.
+Şanslıyız ki DİJİTAL SAVUNUCULARIN, şeytani VERİ HIRSIZLARIYLA mücadele ettiği paralel evrenimizde, kimin iyi kimin kötü olduğu ortada.
 
-Bu kitapç??? inceleyin ve süper kahraman tak?m?m?za kat?lmaya haz?r olun. D?J?TAL SAVUNUCULAR!
+The Defenders will show you some tips and tricks to protect yourself online. They will teach you self-defence to fight the Intruders.
+SAVUNUCULAR, kendinizi çevrimiçiyken koruyabilmeniz için sizlere bazı ipuçları gösterecekler. Size, HIRSIZLARLA mücadele edebilmeniz için öz savunma teknikleri öğretecekler.
 
-Bir dost, [your friend --> bir dost olarak çevirdim, siz ne dersiniz?]
+So check out this bookletand get ready to join our superhero team, the Defenders! 
+Bu kitapçığı inceleyin ve süper kahraman takımımıza katılmaya hazır olun. DİJİTAL SAVUNUCULAR!
+
+Your friend,
+Bir dost, 
+
+OH, AND KEEP YOUR EYES OPEN FOR THE EDRi-former GAME
+BU ARADA, EDRi-former OYUNU İÇİN GÖZLERİNİZİ DÖRT AÇIN.
+
+You will find quests throughout the booklet. Every quest has only one right answer that will give you one letter. Together, the letters will form the solution word. Hint: 
+it is a word that consists of six letters. The achievement to unlock: A POWERFUL DIGITAL ARMOUR.
+Kitapçık boyunca bazı sorularla karşılaşacaksınız. Her sorunun tek bir doğru cevabı var ve size bir harf verecek. Hepsini bulduğunuzda, harfler çözüm kelimesini oluşturacak. İpucu: Bu kelime 6 harften oluşuyor. Başarım kazanımı: GÜÇLÜ BİR DİJİTAL KALKAN
+
+Once you have found the word, you need it to go to a secret page on the internet. Here is how: 
+1. Find the missing part of the following link: https://edri.org/xxxxxx . 
+2. Replace the xxxxxx with the solution word (six letters) of the game quests and enter the complete link in your browser.
+Gizli kelimeyi bulduktan sonra, internette gizli bir sayfaya gitmeniz gerekiyor. Nasıl mı?:
+1. Bu bağlantıdaki eksik kısmı bulun: https://edri.org/xxxxxx . 
+2. Gizlenmiş olan xxxxxx kısmını 6 harften oluşan bulduğunuz çözüm kelimesi ile değiştirin ve bağlantının tamamını tarayıcınıza girin.
 
 
-BU ARADA, EDRi-former OYUNU ?Ç?N GÖZLER?N?Z? DÖRT AÇIN.
-
-Kitapç?k boyunca baz? sorularla kar??la?acaks?n?z. Her sorunun tek bir do?ru cevab? var ve size bir harf verecek. Hepsini buldu?unuzda, harfler çözüm kelimesini olu?turacak. ?pucu: Bu kelime 6 harften olu?uyor. Ba?ar?m kazan?m?: GÜÇLÜ B?R D?J?TAL KALKAN
-
-Gizli kelimeyi bulduktan sonra, internette gizli bir sayfaya gitmeniz gerekiyor. Nas?l m??:
-1. Bu ba?lant?daki eksik k?sm? bulun: https://edri.org/xxxxxx . 
-2. Gizlenmi? olan xxxxxx k?sm?n? 6 harften olu?an buldu?unuz çözüm kelimesi ile de?i?tirin ve ba?lant?n?n tamam?n? taray?c?n?za girin.
-
-
-
+C H A P T E R   1
+1 What's the internet?
 B Ö L Ü M   1
-1 ?nternet nedir?
+1 İnternet nedir?
 
-?nternet, cihazlar?n evrensel a??d?r.
+The internet is a global network of devices. 
+İnternet, cihazların evrensel ağıdır.
 
-Siz diz üstü bilgisayar?n?zdan, tabletinizden veya cep telefonunuzdan interneti kulland???n?z zaman, cihaz?n?z da o a??n bir parças? olur.
+When you use the internet on your laptop, tablet or phone, it is a part of the network.
+Siz diz üstü bilgisayarınızdan, tabletinizden veya cep telefonunuzdan interneti kullandığınız zaman, cihazınız da o ağın bir parçası olur.
 
-?nternetin çok önemli özelliklerinden biri, birçok farkl? teknolojinin ayn? a? içerisinde kullan?labilir olmas?d?r. ??
+One of the special features of the internet is that lots of different technologies can all be used in the same network. 
+İnternetin en önemli özelliklerinden biri, birçok farklı teknolojinin aynı ağ içerisinde kullanılabilir olmasıdır. [??]
 
-Ayn? ba?lant?y?, e? zamanl? olarak video indirmek, oyun oynamak ve hatta arkada?lar?m?zla chat yapmak için kullanabiliriz.
+We can even use the same connection to download a video, play a game and chat with our friends at the same time.
+Aynı bağlantıyı, aynı anda video indirmek, oyun oynamak ve hatta arkadaşlarımızla chat yapmak için kullanabiliriz.
 
-?nternet evrensel ve h?zl?d?r. Bize bir f?rsatlar diyar? sunar. 
+The internet is global, it is fast and gives us a whole world of opportunities.  
+İnternet evrensel ve hızlıdır. Bize bir fırsatlar diyarı sunar. 
 
-?nternet güçlü ve harika bir bulu?. ?nternet yayg?nla?madan önce, birçok insan? birbirine ba?laman?n kolay bir yöntemi yoktu. Müzik dinlemek veya bir film izlemek çok daha zordu. Ayn? zamanda, birçok bilgi çevrimiçi olarak payla??lm?? oldu?u için, internet ö?renmek için de harika bir yerdir.
+The internet is an amazing and powerful invention. Before the internet spread widely, there was no easy way of connecting lots of people with each other. It was much more difficult to listen to music or watch a movie. Also, the internet is a great place to learn as most of the information and knowledge is shared online.
+İnternet etkili ve harika bir buluş. İnternet yaygınlaşmadan önce, insanları birbirine bağlamanın kolay bir yöntemi yoktu. Müzik dinlemek veya bir film izlemek çok daha zordu. Aynı zamanda, birçok bilgi çevrimiçi olarak paylaşılmış olduğu için, internet öğrenmek için de harika bir yer!
 
-?nternet teknolojisi bir bak?ma karlarla kapl? bir tepeye benzer; istersek kayak yapar?z, istersek kardan adam. Tüm ihtiyac?m?z olan kar!
+Internet technology is a bit like a big hill covered with snow – we can use it for skiing, snowboarding or building a snowman. All we need is snow! 
+İnternet teknolojisi bir bakıma karlarla kaplı bir tepeye benzer; istersek kayak yaparız, istersek kardan adam. Tüm ihtiyacımız olan kar!
 
-Çevrimiçi dünyada, tepe bizim internet ba?lant?m?zd?r. Kar ise a??n konu?tu?u dildir, yani "internet protokolleri"!
+In the online world, the hill is our internet connection and the snow is the language the network speaks – the “internet protocol”!
+Çevrimiçi dünyada, tepe bizim internet bağlantımızdır. Kar ise ağın konuştuğu dildir, yani "internet protokolleri"!
 
-Sosyal a?lar ve di?er servisler sanki bedavalarm?? gibi görünürler, ama asl?nda biz ödemeyi çevrimiçi payla?t???m?z ki?isel bilgilerimizle yap?yoruz. Bizim ne yazd???m?z?n, ne okudu?umuzun veya ne izledi?imizin bilgisi çevrimiçi ?irketler taraf?ndan kullan?l?yor.
+Social networks and other online services look like they are for free – but we actually pay with the personal information that we put online. Information about what we write or read or watch is used by online companies.
+Sosyal ağlar ve diğer servisler sanki bedavalarmış gibi görünürler, ama aslında biz ödemeyi çevrimiçi paylaştığımız kişisel bilgilerimizle yapıyoruz. Bizim ne yazdığımızın, ne okuduğumuzun veya ne izlediğimizin bilgisi çevrimiçi şirketler tarafından kullanılıyor.
 
-Çevrimiçi payla?t???m?z bilgilerin kontrolünü nas?l elimizde tutar?z?
+How can we stay in control of the information we share online?
+Çevrimiçi paylaştığımız bilgilerin kontrolünü nasıl elimizde tutarız?
 
-Bu sorunun cevab?n? elinizdeki kitapç?kta bulacaks?n?z.
+You will find the answer to this question in this booklet.
+Bu sorunun cevabını elinizdeki kitapçıkta bulacaksınız.
 
 
-
-C H A P T E R   2
+C H A P T E R 2
 2 What is privacy?
+B Ö L Ü M   2
+2 Mahremiyet nedir?
 
 If we have privacy, we have control.
 But what does this mean? 
+Eğer mahremiyete sahipsek, kontrole de sahibizdir.
+Peki bu da ne demek oluyor?
 
 Privacy is our right to decidewhat to share and with whom we share it.
+Mahremiyet, neyi kiminle paylaşacağımıza karar verme hakkımızdır.
 
 This means, for example, that you have the right to ask Google, Facebook and others what kind of information they have collected about you. You can also ask them to delete these data.
+Bu, örneğin şu anlama geliyor: Google, Facebook ve diğerlerine, sizin hakkınızda hangi bilgileri topladığını sorma hakkınız vardır. Aynı zamanda onlardan bu bilgileri silmelerini de talep edebilirsiniz.
 
 When we protect our privacy, we can feel more secure and safe, because there might be information that could hurt us if the wrong person knows about it.
+Mahremiyetimizi koruduğumuz zaman, daha güvenli hissedebiliriz. Çünkü, yanlış kişilerin eline geçerse bize zarar verebilecek bazı bilgiler olabilir.
 
-When we protect our privacy, we can feel more secure and safe, because there might be information that could hurt us if the wrong person knows about it. It might be information that we wish to share with some people, like our parents or teachers, but not with anyone else.
+It might be information that we wish to share with some people, like our parents or teachers, but not with anyone else.
+Bu, belirli kişiler ile (mesela ailemiz veya öğretmenimizle) paylaşmak isteyip, onlar haricinde kimse ile paylaşmak istemeyeceğimiz bir bilgi olabilir.
 
 But we can also help others when we protect our privacy, because they might want to share something with us that should not be shared with anyone else.
-
-It might be information that we wish to share with some people, like our parents or teachers, but not with anyone else. But we can also help others when we protect our privacy, because they might want to share something with us that should not be shared with anyone else.
+Kendi mahremiyetimizi korurken, aynı zamanda başkalarına da yardım edebiliriz. Çünkü, başka kimse ile paylaşılmaması gereken bir şeyi bizimle paylaşmak istemiş olabilirler.
 
 We all have something we don't want to share with others.
-
+Her birimizin başkalarıyla paylaşmak istemediği bir şeyler var.
 
 Taking care of our own privacy has a lot to do with taking care of our friends too, because it helps us to be free, safe and trustworthy. 
+Kendi mahremiyetimizi korumak, arkadaşlarımızın mahremiyetlerini korumakla da çok ilgilidir. Çünkü, bu bizim özgür, güvenli ve güvenilir olmamızı sağlar.
 
 Our parents, friends or anyone who uses the computer after us, can also sometimes see what we
 searched for. This can happen if we forget to log out or simply when they look at the computer's history.
+Ailemiz, arkadaşlarımız veya bilgisayarı bizden sonra kullanan herhangi biri bazen yaptığımız aramaları görebilir. Bu durum çıkış yapmayı unuttuğumuzda veya onlar arama geçmişini incelediklerinde gerçekleşebilir.
 
-
->>Did you know?  
+>>Did you know?
+>>Biliyor muydunuz?
 
 Only 20 years ago, most homes had only one phone line which only one person could use at a time. Hardly anyone had a mobile phone and not many people had e-mail.  
+Sadece 20 yıl önce, çoğu evde aynı anda sadece bir kişinin kullanabileceği tek bir telefon hattı vardı. Birinin cep telefonu sahibi olma ihtimali düşüktü ve pek çok insanın e-posta adresi yoktu.
 
 »QUEST1: THE INTERNET IS...
+»İPUCU1: İnternet ...
 
 [A]...a network of devices.
+[K]...cihazlardan oluşan bir ağdır.
 [B]...an efficient fishing tool for international waters.
+[B]...uluslararası sular için etkili bir balık tutma aletidir.
 [C]...a social network.
+[C]...bir sosyal ağdır.
 
 
 
