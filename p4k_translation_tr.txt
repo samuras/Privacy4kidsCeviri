@@ -398,7 +398,7 @@ Bilgisayarlara ve telefonlara sızmak için kullandığı Alfa Virüsü.
 
 C H A P T E R   4
 Top three tips and tricks
-B Ö L Ü M 4
+B Ö L Ü M   4
 İlk üç kural
 
 1. Not everyone has to know everything about us
@@ -464,13 +464,20 @@ ve mahremiyetimizi kontrol altına almanın gerçekten de mümkün olduğunu gö
 
 C H A P T E R   5
 Safer messaging
+B Ö L Ü M   5
+Güvenli mesajlaşma
 
 We all use our phones to send messages to friends and family. 
+Hepimiz telefonlarımızı arkadaşlarımıza ve ailemize mesajlar göndermek için 
+kullanıyoruz.
 
 But some messaging apps read the contents of our messages and track who we talk 
 to. Some apps do this so they can profit from this information.
+Fakat, bazı mesajlaşma uygulamaları, mesajlarımızın içeriğini okuyor ve kiminle
+konuştuğumuzu gözetliyor.
 
 » What you say and do online is very valuable for companies. 
+>> İnternette neler söylediğiniz ve ne yaptığınız şirketler için çok kıymetli.
 
 The companies who make messaging apps often scan what we say. They track who 
 we're talking to so they can show us advertisements to make us buy something or 
@@ -478,11 +485,23 @@ to share it with other companies. You can check out a list of cool messaging
 apps at the end of the booklet. These messaging apps also ensure that we don't 
 receive texts from strangers. And there is also a guide how to install Signal 
 in this booklet – Signal is a cool app to keep your messages safe.
+Mesajlaşma uygulamaları yapan şirketler genellikle söylediklerimizi tarıyorlar.
+Kiminle konuştuğumuzu gözetliyorlar. Çünkü bunun sonucunda, bize daha çok alış
+veriş yaptırmak için reklamlar gösterebiliyor veya bilgileri diğer şirketlerle
+paylaşabiliyorlar. Kitapçığın sonunda bazı havalı mesajlaşma uygulamalarının 
+bir listesini bulabilirsiniz. Bu mesajlaşma uygulamaları aynı zamanda 
+yabancılardan mesaj almaycağımızın da garantisini veriyorlar. Ayrıca bu kitapçıkta
+Signal uygulamasını nasıl kurabileceğinize dair bir rehber de bulunuyor. (Signal 
+mesajlarınızı güvende tutmak için havalı bir uygulama.)
 
 » QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE...
+>> İPUCU 3: Sosyal ağlar süper, çünkü...
 [Q]  ...I can be sure that they will never use or sell my data.
+[K]  ...Şundan eminim ki asla benim verilerimi kullanmayacak veya satmayacaklar.
 [M] ...I can stay in touch with friends and family.
+[L] ...Ailem ve arkadaşlarımla iletişim halinde olabilirim
 [N] ...I can be sure that only my friends can see the photos I post there
+[M] ...Oradaki fotoğraflarımı sadece arkadaşlarımın göreceğinden emin olabilirim.
 
 
 
