@@ -351,68 +351,113 @@ aramaları yaptığımızı kaydedebiliyorlar.
 [G] ...tüm dünyayla resimler paylaşmamızı sağlar.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (I)
+DİJİTAL KAHRAMANLAR VERİ CASUSLARINA KARŞI (I)
 
 MS. ANONYMITY
+Bayan Anonimlik
 
 TEAM: DIGITAL DEFENDERS
+TAKIM: DİJİTAL KAHRAMANLAR
     
 POWERS:
 Government tests have augmented her immune system. She also has the ability to 
 use social networks anonymously, so nobody knows who she really is.
+GÜÇLER:
+Hükümet tarafından yapılan deneyler onun bağışıklığını geliştirdi. O aynı zamanda 
+sosyal ağları anonim olarak kullanma yeteneğine sahip. Yani, onun gerçek kimliğini 
+kimse bilmiyor.
+
 
 WEAPONS:
 She is a skilled hand-to-hand fighter
+SİLAHLARI:
+Yakın dövüş konusunda yeteneklidir.
 
 I.D. THIEF
+Kod adı HIRSIZ						??
 
 TEAM: DATA INTRUDERS
+TAKIM: VERİ CASUSLARI
 
 POWERS:
 She can see what you do online and then steal your personal information. She 
 pretends to be you and tries to use your name, social media and e-mail accounts 
 for criminal activities.
+GÜÇLERİ:
+Bu kadın, çevrimiçiyken yaptıklarınızı görebilir ve kişisel bilgilerinizi çalabilir.
+Sizmiş gibi davranır ve adınızı, sosyal medya ve e-posta hesaplarınızı suç teşkil 
+eden davranışları için kullanır.
 
 WEAPONS:
 The Alpha Virus – which she uses to infiltrate computers and phones.
+SİLAHLARI:
+Bilgisayarlara ve telefonlara sızmak için kullandığı Alfa Virüsü.
 
 
 
 
 C H A P T E R   4
 Top three tips and tricks
+B Ö L Ü M 4
+İlk üç kural
 
 1. Not everyone has to know everything about us
+1. Herkesin bizim hakkımızdaki herşeyi bilmesine gerek yok.
 
 Like in the offline world, it is better to be choose carefully what we want to 
 share or not. Instinctively, we share some things with some people and not with 
 others. 
 The internet sometimes makes it difficult to make that choice. 
+Tıpkı çevrimdışı dünyada olduğu gibi, paylaşmak istediğimiz ve istemediğimiz 
+şeylere dikkatli karar vermek daha iyidir.
 
 This is partly because it's not always clear what is private online and what 
 isn't, and partly because the internet has different rules than the offline 
-world. 
+world.
+Bunun sebebi kısmen, çevrimiçiyken neyin gizli neyin açık olduğunun o kadar 
+belirgin olmamasıdır. Kısmen diyoruz çünkü internetin kuralları çevrimdışı 
+dünyanınkilerden farklıdır.
+
 
 For example: Our friends will forgive a stupid comment we made when we were 
 angry, and understand our behaviour because they know us. If someone else reads 
 our comment online, they might not understand what we meant and might think we 
 were being mean. 
+Örneğin: Arkadaşlarımız sinirliyken yaptığımız aptalca bir yorumu hoş görebilirler 
+ve bizi tanıdıkları için davranışımızı anlayabilirler. Ancak, eğer başka biri 
+internetteki yorumumuzu okuyacak olursa, ne demek istediğimii anlamayabilirler ve
+bizim hakkımızda kötü düşünebilirler.
 
 2. Safety and privacy online isn't difficult
+2. İnternette güvenlik ve gizlilik zor değildir.
 
 We don't have to be super nerds to keep ourselves safe online. We can use a 
 tablet, phone or laptop our classmates can't access, a password no one else can 
 guess, watch videos online without being tracked. We can do this in really 
 simple ways.
+İnternette kendimizi güvende tutabilmek için üstün yeteneklere sahip olmamız 
+gerekmiyor. Sınıf arkadaşlarımızın erişemediği bir tablet, telefon veya diz üstü 								???
+bilgisayar kullanabilir, kimsenin tahmin edemeyeceği bir parola seçebilir, 
+gözetlenmeden çevrimiçi videolar izleyebiliriz. Ve bunu gerçekten çok kolay 
+yollarla yapabiliriz.
 
 3. Knowing what or who we're protecting ourselves against
+3. Kendimizi neye veya kime karşı koruduğumuzu bilmek
 
 Just as banks need to protect themselves from thieves, we also have to protect 
 ourselves - against companies tracking us online, classmates that might be 
 angry about something, or nosy parents being... nosy parents. 
+Tıpkı bankaların kendilerini hırsızlardan korumaları gerekmesi gibi, biz de 
+kendimizi bizi internette gözetleyen şirketlere, herhangi bir şeye kızmış olan
+bir sınıf arkadaşımıza veya o her şeye burnunu sokan ebeveynlere karşı korumalıyız.
+Ah o her şeye burnunu sokan ebeveynler...
 
 We should ask ourselves what the real threats are and what we can do about 
 them. Once we have thought about these threats, we'll find that it really is 
 possible to keep ourselves safe and control our privacy.
+Kendimize gerçek tehdidin ne olduğunu ve onlara karşı neler yapabileceğimizi 
+sormalıyız. Bu tehditleri bir kere fark etikten sonra, kendimizi güvende tutmanın
+ve mahremiyetimizi kontrol altına almanın gerçekten de mümkün olduğunu göreceğiz.
 
 
 
