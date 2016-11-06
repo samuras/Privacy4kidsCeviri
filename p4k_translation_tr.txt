@@ -508,35 +508,55 @@ mesajlarınızı güvende tutmak için havalı bir uygulama.)
 
 C H A P T E R   6
 Smartphone security
+B Ö L Ü M 6
+Akıllı Telefon Güvenliği
 
 Our phones have become very important for using the internet.
+Telefonlarımız internet kullanımı için çok önemli bir konuma geldiler.
 
 We use them when we want to communicate with our friends and family, when we 
 use social networks or just browse the web.
+Onları, arkadaşlarımız ve ailemizle iletişim kurmak istediğimizde, sosyal ağlara
+bağlandığımızda veya öylesine internette gezindiğimiz zaman kullanıyoruz.
 
 But our phones are also useful for many other things, we can use them as a 
 torch, to play games or to check the time of the next bus.
+Ancak telefonlarımız birçok farklı işe de yarıyorlar. Onları el feneri olarak, 
+oyun oynamak için veya bir sonraki otobüsün saatini kontrol ederken kullanabiliriz.
 
 When you install a new app, do you read what permission you are giving the app 
 and how it can access information on your phone? Does a torch app really need
 access to your address book?
+Yeni bir uygulama kurduğunuzda, uygulamaya hangi izinleri verdiğinizi veya uygulamanın
+telefonunuzdaki bilgilere erişiminin nasıl olduğunu okuyor musunuz? Bir el feneri
+uygulamasının gerçekten de sizin rehberinize erişmesi gerekli midir?
 
 It is very tempting to just skip past the »Accept« screen, but it is good to 
 stop and think. There are good reasons not to trust an app that is asking for 
 stuff that it obviously does not need.
+<<Kabul et>> ekranını hızlıca atlamak çok çekici görünse de, iyi olan durup düşünmektir.
+Sizden ihtiyacı olmayacağı aşikar olan bilgiler isteyen bir uygulamaya güvenmemek 
+için iyi sebeplerimiz var.
 
 With just a few clicks we can also check and even restrict the permissions of 
 our phones or apps that are already installed. On most devices we can find 
 those in the »Settings«. Have a browse around the settings of your phone, it is 
 good to learn about how your phone works.
+Sadece birkaç tıklama ile, telefonumuzda hali hazırda kurulu olan uygulamalarımızın 
+izinlerini kontrol edebilir, hatta kısıtlayabiliriz.
 
 » Many apps get access to your personal stuff stored on your phone.
+>> Pek çok uygulama telefonunuzda depolanmış olan kişisel bilgilerinize erişime sahiptir.
 
 We can restrict access to our location, add a password to unlock our phone 
 screen, we could also encrypt (protect) the whole phone with only a few clicks.
+Konum bilgimize erişimi kısıtlayabilir, telefonumuzu kilitlemek için ekran parolası
+koyabilir, ayrıca sadece birkaç tıklama ile tüm telefonumuzu şifreleyebiliriz(koruyabiliriz). 
 
 Making our phones more secure and privacy-friendly, doesn't take much time. 
 Towards the end of this booklet, you can find a list of great apps for this.
+Telefonlarımızı daha güvenli ve mahremiyet dostu yapmak, çok fazla zaman almayacak.
+Bu kitapçığın sonlarına doğru, bu iş için harika uygulamalardan oluşan bir liste bulabilirsiniz.
 
 » DID YOU KNOW?
 If there is a good reason to give an app permission for something – a photo 
@@ -544,28 +564,47 @@ app, for example, that needs to have access to your camera – then there's litt
 to worry about. But if you think that the app is asking for too much, you can 
 check if there are other versions of the app in the store that ask for fewer 
 permissions.
+>> BİLİYOR MUYDUNUZ?
+Eğer bir uygulama izni vermek için sebebiniz varsa, diyelim ki kameraya erişmesi 
+gereken bir fotoğraf uygulaması, o halde daha az kaygılanabilirsiniz. Ancak eğer
+uygulamanın ihtiyacından fazlasını istedğini düşünüyorsanız, uygulamanın daha az
+erişim hakkı isteyen benzerlerine bir göz atabilirsiniz.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (II)
+DİJİTAL KAHRAMANLAR VERİ CASUSLARINA KARŞI (II)
 
 MIND FREER
+ZİHİN ÖZGÜRLEŞTİRİCİ
 
 TEAM: DIGITAL DEFENDERS
+TAKIM: DİJİTAL KAHRAMANLAR
     
 POWERS: He fights for your right to decide what to share and with whom. He has 
 the ability to create a private and secure environment where you can say what 
 you think.
+GÜÇLER: O, sizin neyi kiminle paylaşacağınıza karar verebilme hakkınız için savaşıyor.
+Düşüncelerinizi ifade edebileceğiniz gizli ve güvenli bir çevre oluşturma yeteneği 
+var.
 
 WEAPONS: His mind.
+SİLAHLAR: Aklı.
 
 MAN IN THE MIDDLE.
+ARADAKİ ADAM
 
 TEAM: DATA INTRUDERS
+TAKIM: VERİ CASUSLARI
 
 POWERS: He has mystical powers to intercept what you do online. He can pretend 
 to be a legitimate person online and then use this to hack right into your 
 communications, to read your messages, see your photos and watch your videos.
+GÜÇLERİ: İnternette yaptıklarınızla aranıza girebilmek gibi mistik bir özelliği 
+var. Gerçek bir kişiymiş gibi davranır, ardından bu numarayı doğruca iletişiminizi
+hacklemek, mesajlarınızı okumaki fotoğraflarınıza bakmak ve videolarınızı izlemek
+için kullanır.
 
 WEAPONS: His suit and antennas.
+SİLAHLAR: Kostümü ve antenleri.
 
 
 
