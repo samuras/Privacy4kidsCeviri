@@ -384,7 +384,7 @@ She can see what you do online and then steal your personal information. She
 pretends to be you and tries to use your name, social media and e-mail accounts 
 for criminal activities.
 GÜÇLERİ:
-Bu kadın, çevrimiçiyken yaptıklarınızı görebilir ve kişisel bilgilerinizi çalabilir.
+O, çevrimiçiyken yaptıklarınızı görebilir ve kişisel bilgilerinizi çalabilir.
 Sizmiş gibi davranır ve adınızı, sosyal medya ve e-posta hesaplarınızı suç teşkil 
 eden davranışları için kullanır.
 
@@ -611,139 +611,224 @@ SİLAHLAR: Kostümü ve antenleri.
 
 CHAPTER 7
 Surfing the internet
+BÖLÜM 7
+İnternette gezinmek
 
 A browser is often how we use the internet.
+İnternet kullanımımız genellikle tarayıcı ile olur.
 
 » It's easy to forget that the browser is a little piece of software itself.
+>> Tarayıcının kendisinin de bir yazılım olduğu kolayca aklımızdan çıkabilir.
 
 It is sometimes the first thing you open when turning on your phone, tablet or 
 computer, and the last thing you close. But a lot goes on inside the browser 
 that you're not aware of and that be bad (or good) for your privacy.
+Bazen telefonunuzu, tabletinizi veya bilgisayarınızı açınca ilk açtığınız ve
+en son kapattığınız şey tarayıcıdır. Ancak farkında olmasanız da mahremiyetiniz
+için tehlikeli (veya değil) bir çok bilgi tarayıcınızdan geçer.
 
 When we go online to buy something, watch videos or to see what our friends 
 have been posting recently, we leave digital footprints. Some websites and 
 social networks use these footprints to follow us.
+İnternetten alışveriş yaparken, videolar izlerken veya arkadaşlarımızın yakın
+zamanda hangi paylaşımları yaptığına bakarken, dijital ayak izimizi bırakırız.
 
 » Websites collect lots of stuff about us!
+>> Web siteleri hakkımızda çok fazla şey topluyor!
 
 Who our friends are, what we like, what we are searching for and what we are 
 listening to can all be tracked. These websites can do this because they use 
 »cookies« in our browsers. These »cookies « are little pieces of software.
+Kimlerle arkadaşız, neleri beğeniyoruz, hangi aramaları yapmışız, ne dinliyoruz...
+Hepsi de gözetlenebilir. Bu web siteleri bunları yapabiliyor çünkü tarayıcımızda
+>>cookieler<< kullanıyorlar. Bu >>cookieler<< ufak yazılım parçaları.
+
 
 They are invisible to us but when enough of data is collected and combined with 
 other information about us, personal details that we think are secret become 
-known
-to many people and companies.
+known to many people and companies.
+Biz bunu göremesek de, hakkımızda yeterli veri toplandığında ve birbirleriyle
+birleştirildiğinde, mahrem olduğunu düşündüğümüz kişisel detaylar pek çok insan
+ve şirket tarafından bilinir hale gelir.
 
 Most devices come with a browser. On Windows we can use the Internet Explorer, 
 Apple devices come with Safari, and Android devices' default browser is Google 
 Chrome. But those are not necessarily the browsers that work best for you.
+Çoğu cihaz içinde bir tarayıcı ile gelir. Windows sistemler Internet Explorer, 
+Apple sistemler Safari ile, Android cihazlar ise öntanımlı olarak Google Chrome
+ile gelir.
 
 » DID YOU KNOW?
 Make sure to check the »privacy options« of your browser and change the default 
 settings so that you take control – just like Perfect Wave! Many people think 
-that
-the best browser for your privacy and security is Firefox! Why? Because you can 
+that the best browser for your privacy and security is Firefox! Why? Because you can 
 customise it, control it, and see how it works. It is possible that it is not 
-installed on
-your computer, but you can download it very easily.
+installed on your computer, but you can download it very easily.
+>> BİLİYOR MUYDUNUZ?
+Tarayıcınızın >> gizlilik ayarlarını << kontrol ettiğinizden ve öntanımlı olarak 
+gelen ayarları değiştirdiğinizden emin olun ve kontrolü ele alın, tıpkı Muhteşem Dalga gibi!
+Pek çok insan mahremiyetiniz ve güvenliğiniz için en iyi tarayıcının Firefox olduğunu
+düşünür! Neden? Çünkü onu kişiselleştirebiliyor, kontrol edebiliyor ve nasıl çalıştığını 
+inceleyebiliyorsunuz. Bilgisayarınızda kurulu olmayabilir, ancak kolaylıkla indirebilirsiniz.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (III)
+DİJİTAL KAHRAMANLAR vs VERİ CASUSLARI (III)
 
 PERFECT WAVE
+MUHTEŞEM DALGA
 
 TEAM: DIGITAL DEFENDERS
+Takın: DİJİTAL KAHRAMANLAR
     
 POWERS: He can navigate space, hyperspace and cyberspace on his board. The 
 Perfect Wave does not require food or drink, he can survive by converting data 
 into energy. He is almost totally indestrucible.
+GÜÇLER: Uzayda, hiperuzayda ve siberuzayda tahtasının üstünde süzülebilir. Muhteşem Dalga'nın
+yiyecek ve içeceğe ihtiyacı yoktur. Verileri enerjiye dönüştürerek hayatta kalır. 
+Neredeyse yok edilemezdir.
 
 WEAPONS: His surfboard.
+SİLAHLAR: Sörf tahtası.
 
 KRAZY KOOKIE
+ÇILGIN DELİ
 
 TEAM: DATA INTRUDERS
+TAKIM: VERİ CASUSLARI
 
 POWERS: He is always looking for a fight. He hates all Defenders but considers 
 the Perfect Wave his worst enemy. He has a monstrous appetite for your secrets.
+GÜÇLER: Canı her zaman kavga etmek ister. Tüm Kahramanlardan nefret eder ama en büyük
+düşmanı olarak Muhteşem Dalgayı görür. Sırlarınıza karşı korkunç bir iştahı vardır.
 
 WEAPONS: His spinning robot arm.
+SİLAHLAR: Döner robot kolu.
 
 » QUEST 4: SOME APPS ... 
+>> İPUCU 4: BAZI UYGULAMALAR...
 [F] …are so secure that I never have to think about my privacy at all when 
+[İ] ...o kadar güvenliler ki, mahremiyetim hakkında kaygılanmama hiç gerek yok
 using them.
 [L] …are better than chocolate.
+[J] ...çikolatadan daha iyiler.
 [O] …can access my contacts, pictures, and messages.
+[K] ...rehberime, fotoğraf ve mesajlarıma erişebilir.
+
 
 
 
 
 CHAPTER 8
 Password security
+BÖLÜM 8
+Parola Güvenliği
 
 Passwords. Very important in the digital age.
+Parolalar. Dijital çağda çok önemliler.
 
 Incredibly important, in fact. They form the basis of your security and 
 privacy. And most people's passwords are very, very weak – the most commonly 
-used password
-is »password» or »12345».
+used password is »password» or »12345».
+Aslında, inanılmaz derecede önemliler. Güvenlik ve mahremiyetinizin temellerini
+oluşturuyorlar. Çoğu kişinin parolası ise çok, çok zayıf - en sık kullanılan 
+parola >>parola<< veya >>12345<<tir.
 
 Creating a secure password is not very difficult.
+Çok zor olmayan, güvenli bir parola oluşturun.
 
 1. Never use the same password twice
+1. Asla aynı parolayı iki kere kullanmayın
 
 This is really one of the most important rules! At least, try to make different 
 versions of the password you created.
+Bu gerçekten en önemli kurallardan biri! En azından, oluşturduğunuz parolanın 
+farklı versiyonlarını yapmayı deneyin.
 
 Why? Because if criminals (like Data Smuggler) get access to the passwords of 
 one service, they often try to enter other services with the same password. They
 know that people tend to use the same password on several sites!
+Neden? Çünkü eğer suçlular (veri casusları gibi) herhangi bir servisinizin parolasına
+ulaşırlarsa, aynı parolayla diğer hesaplarınıza da girmeyi deneyeceklerdir. İnsanların
+pek çok web sitede aynı parolayı kullanma eğiliminde olduklarını biliyorlar.
 
 2. Never use a word from the dictionary
+2. Asla sözlükten bir kelime kullanmayın
 
 …no matter how long it may be or how complicated it may look.
+..ne kadar uzun olduğu veya ne kadar karmaşık göründüğü fark etmez.
 
 Why? Because there are computer programmes that try every single word in the 
 dictionary as a way of »guessing« your password. Every superhero in our 
 Defenders team has a strong and creative password. You can join them – your 
 password is your weapon to get out of danger!
+Neden? Çünkü parolanızı >>tahmin<< etmenin bir yolu olarak sözlükteki her bir kelimeyi
+deneyen programlar var. Kahramanlar takımımızdaki her süper kahramanın güçlü ve
+yaratıcı parolaları var. Onlara katılabilirsin. Parolan tehlikelerden korunmak
+için kullanabileceğin silahın.
 
 3. Your password should be at least 12 characters long
+3. Parolan en az 12 karakter uzunluğunda olmalı
+
 
 This is the minimum. The longer a password is, the more difficult it is to hack 
 it.
+Bu alt sınır. Ne kadar uzun parolan olursa, hacklenmesi o kadar zor olur.
 
 Why? Because the longer it is, the more difficult it is to guess. Some experts 
 say that it is OK to write it down, just hide the piece of paper very well!
+Neden? Çünkü ne kadar uzun olursa, tahmin etmesi o kadar zorlaşmış olur. Bazı uzmanlar, 
+kağıdı çok çok iyi sakladığınız takdirde, parolanızı yazmanın kabul edilebilir 
+olduğunu düşünüyor.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (IV)
+DIJİTAL KAHRAMANLAR ve VERİ CASUSLARI(IV)
 
 QUEEN OF LOCKS
+KİLİTLERİN KRALİÇESİ
 
 TEAM: DIGITAL DEFENDERS
+TAKIM: DİJİTAL KAHRAMANLAR
     
 POWERS: She fights for privacy and security. She gives powerful private keys to 
 people who are in danger and helps them to secure their personal information 
 online.
+GÜÇLER: Sizin mahremiyetiniz ve güvenliğiniz için savaşır. Tehlikedeki insanlara
+kişisel bilgilerinin güvenliklerini sağlayabilsinler diye güçlü özel anahtarlar 
+verir.
 
 WEAPONS: Her helmet – she uses it to shoot energy beams from her eyes. She can 
-cut right through Finn Phisher's dangerous net.
+cut right through Finn Phisher's dangerous net. 
+SİLAHLAR: Başlığı. Onu, gözlerinden enerji ışınları atmak için kullanıyor. Fin 
+Avcısının tehlikeli ağını delip geçebilir.
 
 FINN PHISHER
+FİN AVCISI 
 
 TEAM: DATA INTRUDERS
+TAKIM: VERİ CASUSLARI
 
 POWERS: He possesses superhuman strength, speed and reflexes. He uses his 
 powers to sneak into your phone and fish for your secrets.
+GÜÇLER: Süper kahraman güçlerine sahip, hız ve refleksler. Güçlerini telefonunuza
+sızmak ve sırlarınızı avlamak için kullanır.
 
 WEAPONS: He throws an electrostatic data net to stun his opponents.
+SİLAHLAR: Rakiplerini şaşırtmak için elektrostatik veri ağını kullanır.
+
 
 » QUEST 5: WHEN I BROWSE THE INTERNET...
+>> İPUCU 5: INTERNETTE GEZİNDİĞİM ZAMAN...
 
-[X] …I can do whatever I want, and I'm safe – it's not reality!
+[B] …I can do whatever I want, and I'm safe – it's not reality!
+[] ...Ne istersem yapabilirim, korkulacak bir şey yok. Bu gerçek hayat değil!
 [U] …I can protect myself by not allowing cookies and not storing my browser 
 history.
+[A] ...Kendimi cookielere izin vermeyerek ve tarayıcı geçmişimi saklamayarak 
+kotuyabilirim
 [Y] …being too careful is just paranoid, because I have nothing to hide.
+[C] ...çok dikkatli olmak sadece paranoyaklık olur, saklayacak hiçbir şeyim 
+yok ki.
+
 
 
 
