@@ -374,7 +374,7 @@ SİLAHLARI:
 Yakın dövüş konusunda yeteneklidir.
 
 I.D. THIEF
-Kod adı HIRSIZ						??
+KİMLİK HIRSIZI
 
 TEAM: DATA INTRUDERS
 TAKIM: VERİ CASUSLARI
@@ -672,7 +672,7 @@ düşünür! Neden? Çünkü onu kişiselleştirebiliyor, kontrol edebiliyor ve 
 inceleyebiliyorsunuz. Bilgisayarınızda kurulu olmayabilir, ancak kolaylıkla indirebilirsiniz.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (III)
-DİJİTAL KAHRAMANLAR vs VERİ CASUSLARI (III)
+DİJİTAL KAHRAMANLAR VERİ CASUSLARINA KARŞI (III)
 
 PERFECT WAVE
 MUHTEŞEM DALGA
@@ -747,7 +747,7 @@ farklı versiyonlarını yapmayı deneyin.
 Why? Because if criminals (like Data Smuggler) get access to the passwords of 
 one service, they often try to enter other services with the same password. They
 know that people tend to use the same password on several sites!
-Neden? Çünkü eğer suçlular (veri casusları gibi) herhangi bir servisinizin parolasına
+Neden? Çünkü eğer suçlular (VERİ KAÇAKÇISI gibi) herhangi bir servisinizin parolasına
 ulaşırlarsa, aynı parolayla diğer hesaplarınıza da girmeyi deneyeceklerdir. İnsanların
 pek çok web sitede aynı parolayı kullanma eğiliminde olduklarını biliyorlar.
 
@@ -781,7 +781,7 @@ kağıdı çok çok iyi sakladığınız takdirde, parolanızı yazmanın kabul 
 olduğunu düşünüyor.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (IV)
-DIJİTAL KAHRAMANLAR ve VERİ CASUSLARI(IV)
+DİJİTAL KAHRAMANLAR VERİ CASUSLARINA KARŞI (IV)
 
 QUEEN OF LOCKS
 KİLİTLERİN KRALİÇESİ
@@ -835,68 +835,109 @@ yok ki.
 
 CHAPTER 9
 Photo and  video sharing
+BÖLÜM 9
+Fotoğraf ve video paylaşımı
 
 We tell our friends about our daily life by sharing images and videos with them 
 online.
+Biz, arkadaşalrımızla fotoğraflar ve videolar paylaşarak onlara günlük hayatımızdan
+bahsediyoruz.
 
 » Sharing is cool – but photos and videos can be copied easily.
+>> Paylaşmak havalıdır, ancak fotoğraf ve videolar kolayca kopyalanabilir.
 
 Remember that it is always important to make sure that we are not sharing with 
 people we don't want to share with. People might be able to see our private 
 images, and misuse them.
+Hatırlayın, insanlarla paylaşmak istemediğimiz şeyleri paylaşmıyor olduğumuzdan emin
+olmak her zaman önemlidir.
 
 What is the problem? If we send an image or video, we send a copy of it from 
 our device to the device of a friend. Imagine that our friend shares the image 
 again with others. Every copy can be copied again.
+Peki sorun nedir? Eğer bir görsel veya video gönderirsek, biz kendi cihazımızdan
+arkadaşımızınkine onun bir kopyasını göndermiş oluyoruz. Arkadaşımızın görseli başkalarıyla
+paylaştığını düşünsenize. Her kopya tekrar kopyalanabilir.
 
 If we share a photo or video online, there will always be several copies of it 
 on different devices. Even if we delete the original image from our own 
 devices, the other copies will still be there.
+Eğer internette bir fotoğraf veya video paylaşıyorsak, onun kopyaları her zaman
+pek çok cihazda olacak. Biz asıl görseli kendi cihazımızdan silsek bile, diğer
+kopyalar hala orada olacaklar.
 
 When we share, our stuff can get into the hands of people that we didn't want 
 to share with.
+Paylaşım yaptığımızda, gönderilerimiz onu paylaşmak istemediğimiz insanların eline
+geçebilir.
 
 Some people could even try to steal our identity by using our images – just 
 like I.D. Thief.
+Bazı insanlar görsellerimizi kullanarak kimliğimizi çalmayı bile deneyebilirler, 
+tıpkı kimlik hırsızının yaptığı gibi.
 
 Snapchat is an app to share pictures that disappear quickly. Unfortunately, it 
 is still possible to save a photo with a few tricks and share it again. 
 Thousands of Snapchat images have already been put on the internet.
+Snapchat çabucak yok olan fotoğraflar paylaşmak için bir uygulama. Ne yazık ki,
+birkaç küçük numara ile fotoğrafı kaydetmek ve tekrar paylaşmak yine de mümkün. 
+Binlerce snapchat paylaşımı çoktan internete konuldu bile.
 
 This means that we all have to live with the possibility that social networks 
 can be used in good ways as well as bad ways. So we need to think before we 
 post or send photos and videos via the internet! We should ask ourselves if we 
 would put this photo on the public board of our school. If not, it's maybe not a 
 good idea to share it online.
+Bu da demek oluyor ki, sosyal ağların iyi amaçlarla kullanılabilecekleri gibi, 
+kötü amaçlarla da kullanılabilecekleri ihtimalini her zaman göz önünde bulundurmalıyız.
 
 If our photo shows other people, we have to ask for their permission before 
 sharing, because it is their right to decide.
+Eğer fotoğrafımızda başka insanlar da bulunuyorsa, paylaşmadan önce onların iznini
+almalıyız. Çünkü buna karar vermek onların hakkı.
 
 For images that we did not take ourselves, we should ask the owner for 
 permission before we share them online.
+Kendimiz çekmediğimiz fotoğraflar için, onları internette paylaşmadan önce sahibinden
+izin almalıyız.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (V)
+DİJİTAL KAHRAMANLAR VERİ CASUSLARINA KARŞI (V) 
 
 JOHNNY RANDOM
+İSTE-DÖNÜŞ				??
+
 
 TEAM: DIGITAL DEFENDERS
+TAKIM: DİJİTAL KAHRAMANLAR
     
 POWERS: He was born on planet Entropia, somewhere in a far away Galaxy. As all 
 members of his species, he has the ability to change his shape at will. He can 
 shield your secrets with randomly changing passwords.
+GÜÇLER: Uzak bir galakside, Entropi gezegeninde doğdu. Kendi türünün tüm üyeleri 
+gibi, dilediği gibi şekil değiştirme yeteneği var. Rastgele değişen parolalar
+sayesinde sırlarınızı koruyabiliyor.
 
 WEAPONS: His main weaponry are energy charged parts of his body that he can 
 throw and recover at any time.
+SİLAHLAR: Temel silahı vücudunun enerji yüklü bölümleri. Onları istediğinde 
+fırlatıp, istediğinde yenileyebilir.
 
 DATA SMUGGLER
+VERİ KAÇAKÇISI
 
 TEAM: DATA INTRUDERS
+TAKIM: VERİ CASUSLARI
 
 POWERS: He is very rich and has abilities far superior to humans. He is 
 incredibly flexible and has superhuman strength. He collects precious personal 
 data (like your photos and messages) and sells it on the black market.
+GÜÇLER: Çok zengin ve güçleri insanlardan oldukça üstün. Oldukça esnek ve 
+insanüstü bir kuvvete sahip. Değerli kişisel bilgileri (fotoğraf ve mesajlarınız 
+gibi) toplar ve kara pazarda onları satar.
 
 WEAPONS: He carries different types of weapons in his suitcase.
+SİLAHLAR: Çantasında farklı tiplerde silahlar taşıyor.
 
 
 
