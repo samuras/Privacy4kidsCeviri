@@ -945,66 +945,39 @@ SİLAHLAR: Çantasında farklı tiplerde silahlar taşıyor.
 
 CHAPTER 10
 Apps & tools we like
+BÖLÜM 10
+Sevdiğimiz Uygulama ve Araçlar
 
 SMARTPHONE APPS
-App                                  What it does                               
-                                                                                 
-         Difficulty to use
-Signal                              Messaging, SMS and encrypted phone calls 
-(WhatsApp alternative)                     Easy
+App/Uygulama                                  What it does//Ne işe yarar                                           Difficulty to use/Kullanım zorluğu
+Signal                              Messaging, SMS and encrypted phone calls(WhatsApp alternative)/Mesajlaşma, SMS ve şifreli telefon görüşmesi                     Easy/Kolay
 
-OrBot & OrFox                Surf the web anonymously                           
-                                                                    Easy
-KeePassDroid               Manages all your passwords                           
-                                                               Easy
-F-Droid                            Archive with apps that are open and free 
-software (Google Play alternative)        Easy
+OrBot & OrFox                Surf the web anonymously/İnternette anonim olarak gezin                                                                     Easy/Kolay
+KeePassDroid               Manages all your passwords/Tüm parolalarınızı yönetir																		 Easy/Kolay
+F-Droid                            Archive with apps that are open and freesoftware (Google Play alternative)/Özgür yazılım olan uygulamaları arşivler(Google Play'e alternatif)        Easy/Kolay
 
-K9 Mail                            Manages your emails                          
-                                                                              
-Easy
-ChatSecure                    Messaging app for multiple accounts like Facebook 
-and Google                           Medium
+K9 Mail                            Manages your emails/E-postalarınızı yönetir																			Easy/Kolay
+ChatSecure                    Messaging app for multiple accounts like Facebook and Google/Facebook ve Google gibi pek çok hesap için mesajlaşma uygulaması                           Medium/Orta
 
-Transportr                       Public transport, check bus and train times    
-                                                             Easy
-Csip Secure                   Encrypted calls (Skype alternative)               
-                                                                  Medium
-APG                                  To encrypt emails with K9 Mail             
-                                                                           
-Difficult
+Transportr                       Public transport, check bus and train times/Toplu taşıma, otobüs ve tren saatlerini kontrol eder                                                        Easy/Kolay
+Csip Secure                   Encrypted calls (Skype alternative)/Şifreli görüşme yapmanızı sağlar(Sykpe'a alternatif)                                                            Medium/Orta
+APG                                  To encrypt emails with K9 Mail/K9 mail ile e-postalarınızı şifreler															Difficult/Zor
 
-SOFTWARE FOR WINDOWS, MAC AND LINUX
-Software                                What it does                            
-                                                                                 
-         Difficulty to use
-Jitsi                                          Encrypted video calls            
-                                                                                 
-         Medium
-Tor Browser                           Surf the web anonymously                  
-                                                                           Easy
-Pidgin and OTR Plugin       Messaging (compatible with ChatSecure)              
-                                                    Medium
-Thunderbird &Enigmail       Manages your email accounts, the Enigmail Add-on 
-encrypts your emails         Medium
+SOFTWARE FOR WINDOWS, MAC AND LINUX/WINDOWS, MAC VE LINUX İÇİN YAZILIMLAR
+Software/Yazılım                                What it does/Ne işe yarar                Difficulty to use
+Jitsi                                          Encrypted video calls/Şifreli görüntülü konuşma sağlar            Medium/Orta
+Tor Browser                           Surf the web anonymously/İnternette anonim gezinmenizi sağlar                  Easy/Kolay
+Pidgin and OTR Plugin       Messaging (compatible with ChatSecure)/Mesajlaşma (ChatSecure ile uyumlu)              Medium/Orta
+Thunderbird &Enigmail       Manages your email accounts, the Enigmail Add-on encrypts your emails/E-posta hesaplarınızı yönetir, Enigmail eklentisi e-postalarınızı şifreler         Medium/Orta
 
 
-BROWSER PLUG-INS, ADD-ONS AND EXTENSIONS
-Plug-in                                          What it does                   
-                                                                                 
-            Difficulty to use
-Disconnect.me                           Blocks cookies and trackers             
-                                                                       Easy
-Privacy Badger                            Blocks trackers                       
-                                                                                 
-   Easy
-HTTPS Everywhere                    Forces websites to use a more secure 
-method, if possible                             Easy
-Self Destructing Cookies         Removes cookies when they are no longer used 
-by open browser tabs        Medium
-NoScript                                       Blocks JavaScript                
-                                                                                 
-       Difficult
+BROWSER PLUG-INS, ADD-ONS AND EXTENSIONS/TARAYICI EKLENTİLERİ
+Plug-in/Eklenti                                          What it does/Ne işe yarar                   Difficulty to use/Kullanım zorluğu
+Disconnect.me                           Blocks cookies and trackers/Cokkie'leri ve izleyicileri engeller             Easy/Kolay
+Privacy Badger                            Blocks trackers/İz sürücüleri engeller                       Easy
+HTTPS Everywhere                    Forces websites to use a more secure method, if possible/Web sitelerini -eğer mümkünse- daha güvenli bir yöntem için zorlar                             Easy/Kolay
+Self Destructing Cookies         Removes cookies when they are no longer used by open browser tabs/Tarayıcıda açık olan sekmelerde kullanılmayan cokie'leri kaldırır       Medium/Orta
+NoScript                                       Blocks JavaScript/Javascripti engeller                Difficult/Zor
 
 
 
@@ -1012,49 +985,70 @@ NoScript                                       Blocks JavaScript
 
 CHAPTER 11
 Hands-on guide for Signal
+BÖLÜM 11
+Signal uygulamalı rehber
 
 Signal is a free Android and iPhone app. It doesn't watch what we say or who we 
 talk to. We can use it to text, call, and share pictures, videos, and contacts.
+Signal özgür bir Android ve iPhone uygulaması. Kiminle konuştuğumuzu veya ne sözylediğimizi gözetlemiyor. Bu uygulamayı, mesajlaşma, arama, fotoğraf ve video, paylaşımı ve bağlantılarımızı paylaşmak için kullanabiliriz.
 
 It is not the only app we can use to communicate safely, but it is one of the 
 easiest to use. Here is a handson-guide for it in five simple steps:
+Güvenli iletişim kurmamızı sağlayan tek uygulama bu değil, ancak kullanımı en kolay olanı bu. İşte bunun için 5 basit adımlık uygulamalı eğitim:
     
 1. Go into the Play Store (Android) or App Store (iPhone). Search for »Signal«. 
 Select the app »Signal Private Messenger« and tap ›Install‹. After Signal is 
 installed, open the app.
+1. Play Store (Android) veya App Store (iPhone)'a gidin. >>Signal<< kelimesini aratın. »Signal Private Messenger« uygulamasını seçin ve >>Kur<< butonuna tıklayın. Kurulduktan sonra, uygulamayı açın.
 
 2. Register your phone number with Signal by entering your mobile phone number 
 and selecting ›Register‹ or ›Verify your device‹. You'll get a text message 
 with a six digit code. Put that code into Signal.
+2. Telefon numaranızı girerek ve >Kayıt< veya >Cihazınızı Doğrulayın<a tıklayarak telefon numaranızı kayıt edin. 6 basamaklı bir kod içeren bir kısa mesaj alacaksınız. O kodu Signal'e girin.
 
 3. Tap the pencil on the bottom right (Android) or the »+« symbol on the top 
 right (iPhone) to start a conversation.
+3. Sohbet başlatmak için sağ alt köşedeki kaleme (Android) veya sağ üst köşedeki >>+<< sembolune (iPhone) tıklayın.
 
 4. Select the person you want to text or call.
+4. Mesajlşmak veya aramak istediğiniz kişiyi seçin.
 
 5. If you want to change between secure messages via your internet connection 
 and insecure SMS, just hold the »Send« button for a tiny bit longer.
+5. Eğer internet bağlantınız üzerinden gerçekleştirilen güvenli mesajlaşma ile, güvensiz olan SMS arasında geçiş yapmak istiyorsanız; >>Gönder<< butonuna bir süre basılı tutun.
 
 It's much more secure when the person who we're contacting is using Signal too. 
 It uses our internet connection when we contact another Signal user and normal 
 SMS or minutes when we contact someone who is not using Signal.
+İletişim kurduğunuz kişi de Signal kullanıyorsa, çok daha güvenli oluyor. Bir başka Signal kullanıcısı ile kurduğunuz iletişimde internet bağlantınızı kullanırken, Signal kullanıcısı olmayan biri ile olan iletişiminizde dakikalarınızı ve SMS'inizi kullanıyor.
 
 Remember! You don't have to get everyone you know to use Signal. Just tell your 
 closest friends and the people you contact most often to install it too and 
 then more and more of our friends will start using it.
+Unutmayın! Tanıdığınız herkesin Signal kullanmasını sağlamak zorunda değilsiniz. Sadece en yakın arkadaşlarınıza ve en çok iletişim kurduğunuz insanlara kurmalarını söyleyin, ve zamanla arkadaşlarımızın daha çoğu kullanmaya başlayacaktır.
 
 This booklet was made possible thanks to:
+Bu kitapçık:
 
 • individual donors on GlobalGiving.com – thank you all for your contribution!
+* GlobalGiving.com'daki bireysel bağışçılar -tüm katkılarınızdan dolayı teşekkürler!
 • the Adessium Foundation and Open Society Foundations
+* Adessium ve Open Society Kurumları
+
+sayesinde hayata geçti.
 
 This document is distributed under a Creative Commons 2.0 Licence (CC BY 2.0)
 http://creativecommons.org/licenses/by/2.0/
 
+
 » QUEST 6: I SHOULD CHOOSE AS MY PASSWORD …
+>> İPUCU 6: PAROLA OLARAK...
 [R] …a random combination of letters and special characters.
+[N]	...harfler ve özel karakterlerden oluşan rastgele bir dizilim seçmeliyim.
 [V] …123456789 – it's easy to remember.
+[O] ...123456789 seçmeliyim - hatırlaması kolay olur.
 [D] …the first word I see when opening a random book from a random page.
+[Ö] ...rastgele bir kitaptan açtığım rastgele bir sayfadaki ilk kelimeyi seçmeliyim.
 
 
 
