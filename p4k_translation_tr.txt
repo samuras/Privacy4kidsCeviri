@@ -3,7 +3,7 @@
 YOUR GUIDE TO THE
 REHBERİNİZ
 DIGITAL DEFENDERS VS. DATA INTRUDERS
-DİJİTAL KAHRAMANLAR KARŞISINDA VERİ CASUSLARI
+DİJİTAL KAHRAMANLAR VERİ CASUSLARINA KARŞI
 TAKE CONTROL OF YOUR STUFF ONLINE
 İNTERNETTEKİ İÇERİKLERİNİZİN KONTROLÜNÜ ELE ALIN
 PRIVACY FOR KIDS
@@ -256,7 +256,7 @@ TAKIM: DİJİTAL KAHRAMANLAR
 POWERS:
 Government tests have augmented her immune system. She also has the ability to use social networks anonymously, so nobody knows who she really is.
 GÜÇLER:
-Hükümet tarafından yapılan deneyler onun bağışıklığını geliştirdi. O aynı zamanda sosyal ağları anonim olarak kullanma yeteneğine sahip. Yani, onun gerçek kimliğini 
+Hükümet tarafından yapılan deneyler onun bağışıklığını geliştirdi. Aynı zamanda sosyal ağları anonim olarak kullanma yeteneğine sahip. Yani, onun gerçek kimliğini 
 kimse bilmiyor.
 
 
@@ -274,7 +274,7 @@ TAKIM: VERİ CASUSLARI
 POWERS:
 She can see what you do online and then steal your personal information. She pretends to be you and tries to use your name, social media and e-mail accounts for criminal activities.
 GÜÇLERİ:
-O, çevrimiçiyken yaptıklarınızı görebilir ve kişisel bilgilerinizi çalabilir. Sizmiş gibi davranır ve adınızı, sosyal medya ve e-posta hesaplarınızı suç teşkil eden davranışları için kullanmayı dener.
+Çevrimiçiyken yaptıklarınızı görebilir ve kişisel bilgilerinizi çalabilir. Sizmiş gibi davranır ve adınızı, sosyal medya ve e-posta hesaplarınızı suç teşkil eden davranışları için kullanmayı dener.
 
 WEAPONS:
 The Alpha Virus – which she uses to infiltrate computers and phones.
@@ -287,26 +287,26 @@ Bilgisayarlara ve telefonlara sızmak için kullandığı Alfa Virüsü.
 C H A P T E R   4
 Top three tips and tricks
 B Ö L Ü M   4
-İlk üç kural
+Üç altın kural
 
 1. Not everyone has to know everything about us
 1. Herkesin bizim hakkımızdaki herşeyi bilmesine gerek yok.
 
 Like in the offline world, it is better to be choose carefully what we want to share or not. Instinctively, we share some things with some people and not with others. The internet sometimes makes it difficult to make that choice. 
-Tıpkı çevrimdışı dünyada olduğu gibi, paylaşmak istediğimiz ve istemediğimiz şeylere dikkatli karar vermek daha iyidir. İçgüdüsel olarak, bazı şeyleri birileriyle paylaşırken, diğerleriyle paylaşmayız. İnternet bazen bu tercihi zorlaştırabilir.
+Tıpkı günlük hayatımızda olduğu gibi, paylaşmak istediğimiz ve istemediğimiz şeyleri dikkatlice seçmek daha akıllıcadır. İçgüdüsel olarak, bazı şeyleri birileriyle paylaşırken, başkalarıyla paylaşmayız. İnternet bazen bu tercihi zorlaştırabilir.
 
 This is partly because it's not always clear what is private online and what isn't, and partly because the internet has different rules than the offline world.
-Bunun sebebi biraz, çevrimiçiyken neyin gizli neyin açık olduğunun o kadar belirgin olmaması, biraz da internetin kurallarının çevrimdışı dünyanınkilerden farklı olmasıdır.
+Bunun sebebi biraz, internetteyken neyin gizli neyin açık olduğunun o kadar belirgin olmaması, biraz da internetin kurallarının günlük hayattakilerden farklı olmasıdır.
 
 
 For example: Our friends will forgive a stupid comment we made when we were angry, and understand our behaviour because they know us. If someone else reads our comment online, they might not understand what we meant and might think we were being mean. 
-Örneğin: Arkadaşlarımız sinirliyken yaptığımız aptalca bir yorumu hoş görebilirler ve bizi tanıdıkları için davranışımızı anlayabilirler. Ancak, eğer başka biri internetteki yorumumuzu okuyacak olursa, ne demek istediğimizi anlamayabilir ve bizim hakkımızda kötü düşünebilir.
+Örneğin: Arkadaşlarımız sinirliyken yaptığımız aptalca bir yorumu hoş görebilirler ve bizi tanıdıkları için anlayışla karşılayabilirler. Ancak, eğer başka biri internetteki yorumumuzu okuyacak olursa, ne demek istediğimizi anlamayabilir ve bizim hakkımızda kötü düşünebilir.
 
 2. Safety and privacy online isn't difficult
 2. İnternette güvenlik ve gizlilik zor değildir.
 
 We don't have to be super nerds to keep ourselves safe online. We can use a tablet, phone or laptop our classmates can't access, a password no one else can guess, watch videos online without being tracked. We can do this in really simple ways.
-İnternette kendimizi güvende tutabilmek için üstün yeteneklere sahip olmamız gerekmiyor. Sınıf arkadaşlarımızın erişemeyeceği bir tablet, telefon veya diz üstü bilgisayar kullanabilir, kimsenin tahmin edemeyeceği bir parola seçebilir, gözetlenmeden çevrimiçi videolar izleyebiliriz. Ve bunu gerçekten çok kolay yollarla yapabiliriz.
+İnternette kendimizi güvende tutabilmek için üstün yeteneklere sahip olmamız gerekmiyor. Sınıf arkadaşlarımızın erişemeyeceği bir tablet, telefon veya dizüstü bilgisayar kullanabilir, kimsenin tahmin edemeyeceği bir parola seçebilir, gözetlenmeden internetteki videoları izleyebiliriz. Bunları yapmanın gerçekten çok kolay yolları var. 
 
 3. Knowing what or who we're protecting ourselves against
 3. Kendimizi neye veya kime karşı koruduğumuzu bilmek
@@ -326,7 +326,7 @@ B Ö L Ü M   5
 Güvenli mesajlaşma
 
 We all use our phones to send messages to friends and family. 
-Hepimiz telefonlarımızı arkadaşlarımıza ve ailemize mesajlar göndermek için kullanıyoruz.
+Hepimiz telefonlarımızı arkadaşlarımız ve ailemizle mesajlaşmak için kullanıyoruz.
 
 But some messaging apps read the contents of our messages and track who we talk to. Some apps do this so they can profit from this information.
 Fakat, bazı mesajlaşma uygulamaları, mesajlarımızın içeriğini okuyor ve kiminle konuştuğumuzu gözetliyor.
@@ -335,7 +335,7 @@ Fakat, bazı mesajlaşma uygulamaları, mesajlarımızın içeriğini okuyor ve 
 » İnternette neler söylediğiniz ve yaptığınız şirketler için çok kıymetli.
 
 The companies who make messaging apps often scan what we say. They track who we're talking to so they can show us advertisements to make us buy something or to share it with other companies. You can check out a list of cool messaging apps at the end of the booklet. These messaging apps also ensure that we don't receive texts from strangers. And there is also a guide how to install Signal in this booklet – Signal is a cool app to keep your messages safe.
-Mesajlaşma uygulamaları yapan şirketler genellikle söylediklerimizi tarıyorlar. Kiminle konuştuğumuzu gözetliyorlar. Çünkü bunun sonucunda, bize daha çok alış veriş yaptırmak için reklamlar gösterebiliyor veya bilgileri diğer şirketlerle paylaşabiliyorlar. Kitapçığın sonunda bazı havalı mesajlaşma uygulamalarının bir listesini bulabilirsiniz. Bu mesajlaşma uygulamaları aynı zamanda yabancılardan mesaj almaycağımızın da garantisini veriyorlar. Ayrıca bu kitapçıkta Signal uygulamasını nasıl kurabileceğinize dair bir rehber de bulunuyor (Signal mesajlarınızı güvende tutmak için havalı bir uygulama). 
+Mesajlaşma uygulamaları yapan şirketler genellikle ne konuştuğumuza ve kiminle konuştuğumuza bakıyorlar. Çünkü bunun sonucunda, bize daha çok alışveriş yaptırmak için reklamlar gösterebiliyor veya bilgileri diğer şirketlerle paylaşabiliyorlar. Kitapçığın sonunda güzel bazı mesajlaşma uygulamalarının bir listesini bulabilirsiniz. Bu mesajlaşma uygulamaları aynı zamanda yabancılardan mesaj almaycağımızın da garantisini veriyorlar. Ayrıca bu kitapçıkta Signal uygulamasını nasıl kurabileceğinize dair bir rehber de bulunuyor (Signal mesajlarınızı güvende tutmak için güzel bir uygulama). 
 
 » QUEST 3: SOCIAL NETWORKS ARE GREAT BECAUSE...
 » İPUCU 3: Sosyal ağlar süper, çünkü...
@@ -355,22 +355,22 @@ B Ö L Ü M 6
 Akıllı Telefon Güvenliği
 
 Our phones have become very important for using the internet.
-Telefonlarımız internet kullanımı için çok önemli bir konuma geldiler.
+Telefonlarımız internet kullanımı için çok önemli bir hale geldiler.
 
 We use them when we want to communicate with our friends and family, when we use social networks or just browse the web.
 Onları, arkadaşlarımız ve ailemizle iletişim kurmak istediğimizde, sosyal ağlara bağlandığımızda veya öylesine internette gezindiğimiz zaman kullanıyoruz.
 
 But our phones are also useful for many other things, we can use them as a torch, to play games or to check the time of the next bus.
-Ancak telefonlarımız birçok farklı işe de yarıyorlar. Onları el feneri olarak, oyun oynamak için veya bir sonraki otobüsün saatini kontrol ederken kullanabiliriz.
+Ancak telefonlarımız birçok farklı işe de yarıyorlar. Onları el feneri olarak, oyun oynamak için veya bir sonraki otobüsün saatine bakmak için kullanabiliriz.
 
 When you install a new app, do you read what permission you are giving the app and how it can access information on your phone? Does a torch app really need access to your address book?
-Yeni bir uygulama kurduğunuzda, uygulamaya hangi izinleri verdiğinizi veya uygulamanın  telefonunuzdaki bilgilere erişiminin nasıl olduğunu okuyor musunuz? Bir el feneri uygulamasının gerçekten de sizin rehberinize erişmesi gerekli midir?
+Yeni bir uygulama kurduğunuzda, uygulamaya hangi izinleri verdiğinizi veya uygulamanın telefonunuzdaki hangi bilgilere erişibileceğini okuyor musunuz? Bir el feneri uygulamasının gerçekten de sizin rehberinize erişmesi gerekli mi?
 
 It is very tempting to just skip past the »Accept« screen, but it is good to stop and think. There are good reasons not to trust an app that is asking for stuff that it obviously does not need.
-»Kabul et« ekranını hızlıca atlamak çok çekici görünse de, iyi olan durup düşünmektir. Sizden ihtiyacı olmayacağı aşikar olan bilgiler isteyen bir uygulamaya güvenmemek için iyi sebeplerimiz var.
+»Kabul et« ekranını hızlıca atlamak çok çekici görünse de, iyi olan durup düşünmektir. Sizden ihtiyacı olmayacağı aşikar olan bilgiler isteyen bir uygulamaya güvenmemek akıllıca olacaktır.
 
 With just a few clicks we can also check and even restrict the permissions of our phones or apps that are already installed. On most devices we can find those in the »Settings«. Have a browse around the settings of your phone, it is good to learn about how your phone works.
-Sadece birkaç tıklama ile, telefonumuzda hali hazırda kurulu olan uygulamalarımızın izinlerini kontrol edebilir, hatta kısıtlayabiliriz. Çoğu cihazda bunları »Ayarlar« altında bulabiliriz. Telefonunuzun ayarlar menüsüü biraz kurcalayın. Bu, telefonunuzun nasıl çalıştığını anlamak için iyidir.
+Sadece birkaç tık ile, telefonumuzda hali hazırda kurulu olan uygulamalarımızın izinlerini kontrol edebilir, hatta kısıtlayabiliriz. Çoğu cihazda bunları »Ayarlar« altında bulabiliriz. Telefonunuzun ayarlar menüsünü biraz kurcalayın, telefonunuzun nasıl çalıştığını daha iyi anlamanıza yardımcı olacaktır.
 
 » Many apps get access to your personal stuff stored on your phone.
 » Pek çok uygulama telefonunuzda depolanmış olan kişisel bilgilerinize erişime sahiptir.
@@ -384,7 +384,7 @@ Telefonlarımızı daha güvenli ve mahremiyet dostu yapmak, çok fazla zaman al
 » DID YOU KNOW?
 If there is a good reason to give an app permission for something – a photo app, for example, that needs to have access to your camera – then there's little to worry about. But if you think that the app is asking for too much, you can check if there are other versions of the app in the store that ask for fewer permissions.
 » BİLİYOR MUYDUNUZ?
-Eğer bir uygulama izni vermek için sebebiniz varsa, diyelim ki kameraya erişmesi gereken bir fotoğraf uygulaması, o halde daha az kaygılanabilirsiniz. Ancak eğer uygulamanın ihtiyacından fazlasını istedğini düşünüyorsanız, uygulamanın daha az erişim hakkı isteyen benzerlerine bir göz atabilirsiniz.
+Eğer bir uygulamaya izin vermek için sebebiniz varsa, diyelim ki kameraya erişmesi gereken bir fotoğraf uygulaması, o halde endişelenmek için pek bir sebep yok. Ancak eğer uygulamanın ihtiyacından fazlasını istedğini düşünüyorsanız, uygulamanın daha az erişim hakkı isteyen benzerlerine bir göz atabilirsiniz.
 
 DIGITAL DEFENDERS v DATA INTRUDERS (II)
 DİJİTAL KAHRAMANLAR VERİ CASUSLARINA KARŞI (II)
@@ -408,7 +408,7 @@ TEAM: DATA INTRUDERS
 TAKIM: VERİ CASUSLARI
 
 POWERS: He has mystical powers to intercept what you do online. He can pretend to be a legitimate person online and then use this to hack right into your communications, to read your messages, see your photos and watch your videos.
-GÜÇLERİ: İnternette yaptıklarınızla aranıza girebilmek gibi mistik bir özelliği var. Gerçek bir kişiymiş gibi davranır, ardından bu numarayı doğruca iletişiminizi hacklemek, mesajlarınızı okumak, fotoğraflarınıza bakmak ve videolarınızı izlemek için kullanır.
+GÜÇLERİ: İnternette yaptıklarınızla aranıza girebilmek gibi sihirli bir özelliği var. Gerçek bir kişiymiş gibi davranır, ardından bu numarayı doğruca iletişiminize girmek, mesajlarınızı okumak, fotoğraflarınıza bakmak ve videolarınızı izlemek için kullanır.
 
 WEAPONS: His suit and antennas.
 SİLAHLAR: Kostümü ve antenleri.
@@ -422,7 +422,7 @@ BÖLÜM 7
 İnternette gezinmek
 
 A browser is often how we use the internet.
-İnternet kullanımımız genellikle tarayıcı ile olur.
+İnterneti genellikle bir tarayıcı ile kullanırız.
 
 » It's easy to forget that the browser is a little piece of software itself.
 » Tarayıcının kendisinin de bir yazılım olduğu kolayca aklımızdan çıkabilir.
@@ -431,10 +431,10 @@ It is sometimes the first thing you open when turning on your phone, tablet or c
 Bazen telefonunuzu, tabletinizi veya bilgisayarınızı açınca ilk açtığınız ve en son kapattığınız şey tarayıcıdır. Ancak farkında olmasanız da mahremiyetiniz için tehlikeli (veya değil) bir çok bilgi tarayıcınızdan geçer.
 
 When we go online to buy something, watch videos or to see what our friends have been posting recently, we leave digital footprints. Some websites and social networks use these footprints to follow us.
-İnternetten alışveriş yaparken, videolar izlerken veya arkadaşlarımızın yakın zamanda hangi paylaşımları yaptığına bakarken, dijital ayak izimizi bırakırız. Bazı web siteleri ve sosyal ağlar bu ayak izlerini bizi takip etmek için kullanır.
+İnternetten alışveriş yaparken, videolar izlerken veya arkadaşlarımızın yakın zamanda hangi paylaşımları yaptığına bakarken, dijital ayak izleri bırakırız. Bazı web siteleri ve sosyal ağlar bu ayak izlerini bizi takip etmek için kullanır.
 
 » Websites collect lots of stuff about us!
-» Web siteleri hakkımızda çok fazla şey topluyor!
+» Web siteleri hakkımızda çok fazla bilgi topluyor!
 
 Who our friends are, what we like, what we are searching for and what we are listening to can all be tracked. These websites can do this because they use »cookies« in our browsers. These »cookies « are little pieces of software.
 Kimlerle arkadaşız, neleri beğeniyoruz, hangi aramaları yapmışız, ne dinliyoruz... Hepsi de gözetlenebilir. Bu web siteleri bunları yapabiliyor çünkü tarayıcımızdaki »cookieleri« kullanıyorlar. Bu »cookieler« ufak yazılım parçaları.
@@ -473,7 +473,7 @@ TEAM: DATA INTRUDERS
 TAKIM: VERİ CASUSLARI
 
 POWERS: He is always looking for a fight. He hates all Defenders but considers the Perfect Wave his worst enemy. He has a monstrous appetite for your secrets. 
-GÜÇLER: Canı her zaman kavga etmek ister. Tüm Kahramanlardan nefret eder ama en büyük düşmanı olarak Muhteşem Dalgayı görür. Sırlarınıza karşı korkunç bir iştahı vardır.
+GÜÇLER: Canı her zaman kavga etmek ister. Tüm Kahramanlardan nefret eder ama baş düşmanı olarak Muhteşem Dalgayı görür. Sırlarınıza karşı korkunç bir iştahı vardır.
 
 WEAPONS: His spinning robot arm.
 SİLAHLAR: Döner robot kolu.
@@ -555,7 +555,7 @@ TEAM: DATA INTRUDERS
 TAKIM: VERİ CASUSLARI
 
 POWERS: He possesses superhuman strength, speed and reflexes. He uses his powers to sneak into your phone and fish for your secrets.
-GÜÇLER: Süper kahraman güçlerine sahip, hız ve refleksler. Güçlerini telefonunuza sızmak ve sırlarınızı avlamak için kullanır.
+GÜÇLER: İnsanüstü bir güce, hıza ve reflekslere sahip. Güçlerini telefonunuza sızmak ve sırlarınızı avlamak için kullanır.
 
 WEAPONS: He throws an electrostatic data net to stun his opponents.
 SİLAHLAR: Rakiplerini şaşırtmak için elektrostatik veri ağını kullanır.
@@ -587,28 +587,28 @@ We tell our friends about our daily life by sharing images and videos with them 
 Biz, arkadaşlarımızla fotoğraflar ve videolar paylaşarak onlara günlük hayatımızdan bahsediyoruz.
 
 » Sharing is cool – but photos and videos can be copied easily.
-» Paylaşmak havalıdır, ancak fotoğraf ve videolar kolayca kopyalanabilir.
+» Paylaşmak güzeldir, ancak fotoğraf ve videolar kolayca kopyalanabilir.
 
 Remember that it is always important to make sure that we are not sharing with people we don't want to share with. People might be able to see our private images, and misuse them.
-Hatırlayın, insanlarla paylaşmak istemediğimiz şeyleri paylaşmıyor olduğumuzdan emin olmak her zaman önemlidir.
+Unutmayın, insanlarla paylaşmak istemediğimiz şeyleri paylaşmıyor olduğumuzdan emin olmak her zaman önemlidir. Bazı insanlar bizim özel fotoğraflarımızı kötü amaçlara alet edebilirler.
 
 What is the problem? If we send an image or video, we send a copy of it from our device to the device of a friend. Imagine that our friend shares the image again with others. Every copy can be copied again.
-Peki sorun nedir? Eğer bir görsel veya video gönderirsek, biz kendi cihazımızdan arkadaşımızınkine onun bir kopyasını göndermiş oluyoruz. Arkadaşımızın görseli başkalarıyla paylaştığını düşünsenize. Her kopya tekrar kopyalanabilir.
+Peki sorun nedir? Eğer bir fotoğraf veya video gönderirsek, biz kendi cihazımızdan arkadaşımızınkine onun bir kopyasını göndermiş oluyoruz. Arkadaşımızın fotoğrafı başkalarıyla paylaştığını düşünsenize. Her kopya tekrar kopyalanabilir.
 
 If we share a photo or video online, there will always be several copies of it on different devices. Even if we delete the original image from our own devices, the other copies will still be there.
-Eğer internette bir fotoğraf veya video paylaşıyorsak, onun kopyaları her zaman pek çok cihazda olacak. Biz asıl görseli kendi cihazımızdan silsek bile, diğer kopyalar hala orada olacaklar.
+Eğer internette bir fotoğraf veya video paylaşıyorsak, onun kopyaları her zaman pek çok cihazda olacak. Biz aslını kendi cihazımızdan silsek bile, diğer kopyalar hala orada olacaklar.
 
 When we share, our stuff can get into the hands of people that we didn't want to share with.
 Paylaşım yaptığımızda, gönderilerimiz onu paylaşmak istemediğimiz insanların eline geçebilir.
 
 Some people could even try to steal our identity by using our images – just like I.D. Thief.
-Bazı insanlar görsellerimizi kullanarak kimliğimizi çalmayı bile deneyebilirler, tıpkı Kimlik Hırsızı'nın yaptığı gibi.
+Bazı insanlar fotoğraflarımızı kullanarak kimliğimizi çalmayı bile deneyebilirler, tıpkı Kimlik Hırsızı'nın yaptığı gibi.
 
 Snapchat is an app to share pictures that disappear quickly. Unfortunately, it is still possible to save a photo with a few tricks and share it again. Thousands of Snapchat images have already been put on the internet.
 Snapchat çabucak yok olan fotoğraflar paylaşmak için bir uygulama. Ne yazık ki, birkaç küçük numara ile fotoğrafı kaydetmek ve tekrar paylaşmak yine de mümkün. Binlerce snapchat paylaşımı çoktan internete konuldu bile.
 
 This means that we all have to live with the possibility that social networks can be used in good ways as well as bad ways. So we need to think before we post or send photos and videos via the internet! We should ask ourselves if we would put this photo on the public board of our school. If not, it's maybe not a good idea to share it online.
-Bu da demek oluyor ki, sosyal ağların iyi amaçlarla kullanılabilecekleri gibi, kötü amaçlarla da kullanılabilecekleri ihtimalini her zaman göz önünde bulundurmalıyız. O halde internet üzerinden bir fotoğraf veya video paylaşırken düşünmeliyiz! Kendimize şunu sormalıyız: Bu fotoğrafı okuldaki panolardan birine koyar mıydım? Eğer cevabımız hayırsa, onu internette paylaşmak da pek iyi bir fikir olmayabilir.
+Bu da demek oluyor ki, sosyal ağların iyi amaçlarla kullanılabilecekleri gibi, kötü amaçlarla da kullanılabilecekleri ihtimalini her zaman göz önünde bulundurmalıyız. O halde internet üzerinden bir fotoğraf veya video paylaşırken düşünmeliyiz! Kendimize şunu sorabiliriz: Bu fotoğrafı okuldaki panolardan birine koyar mıydım? Eğer cevabımız hayırsa, onu internette paylaşmak da pek iyi bir fikir olmayabilir.
 
 If our photo shows other people, we have to ask for their permission before sharing, because it is their right to decide.
 Eğer fotoğrafımızda başka insanlar da bulunuyorsa, paylaşmadan önce onların iznini almalıyız. Çünkü buna karar vermek onların hakkı.
@@ -639,7 +639,7 @@ TEAM: DATA INTRUDERS
 TAKIM: VERİ CASUSLARI
 
 POWERS: He is very rich and has abilities far superior to humans. He is incredibly flexible and has superhuman strength. He collects precious personal data (like your photos and messages) and sells it on the black market.
-GÜÇLER: Çok zengin ve güçleri insanlardan oldukça üstün. Oldukça esnek ve insanüstü bir kuvvete sahip. Değerli kişisel bilgileri (fotoğraf ve mesajlarınız gibi) toplar ve kara pazarda onları satar.
+GÜÇLER: Çok zengin ve güçleri insanlardan oldukça üstün. Oldukça esnek ve insanüstü bir kuvvete sahip. Değerli kişisel bilgileri (fotoğraf ve mesajlarınız gibi) toplar ve onları karaborsada satar.
 
 WEAPONS: He carries different types of weapons in his suitcase.
 SİLAHLAR: Çantasında farklı tiplerde silahlar taşıyor.
@@ -697,7 +697,7 @@ Signal is a free Android and iPhone app. It doesn't watch what we say or who we 
 Signal özgür bir Android ve iPhone uygulaması. Kiminle konuştuğumuzu veya ne söylediğimizi gözetlemiyor. Bu uygulamayı, mesajlaşma, arama, fotoğraf ve video, paylaşımı ve bağlantılarımızı paylaşmak için kullanabiliriz.
 
 It is not the only app we can use to communicate safely, but it is one of the easiest to use. Here is a handson-guide for it in five simple steps:
-Güvenli iletişim kurmamızı sağlayan tek uygulama bu değil, ancak kullanımı en kolay olanı bu. İşte bunun için 5 basit adımlık uygulamalı eğitim:
+Güvenli iletişim kurmamızı sağlayan tek uygulama bu değil, ancak kullanımı en kolay olanlarından biri. İşte bunun için 5 basit adımlık uygulamalı eğitim:
     
 1. Go into the Play Store (Android) or App Store (iPhone). Search for »Signal«. Select the app »Signal Private Messenger« and tap ›Install‹. After Signal is installed, open the app.
 1. Play Store (Android) veya App Store (iPhone)'a gidin. »Signal« kelimesini aratın. »Signal Private Messenger« uygulamasını seçin ve »Install« butonuna tıklayın. Kurulduktan sonra, uygulamayı açın.
