@@ -3,7 +3,7 @@
 YOUR GUIDE TO THE
 REHBERİNİZ
 DIGITAL DEFENDERS VS. DATA INTRUDERS
-DİJİTAL KAHRAMANLAR VERİ CASUSLARINA KARŞI
+DİJİTAL KAHRAMANLAR VE VERİ CASUSLARINA
 TAKE CONTROL OF YOUR STUFF ONLINE
 İNTERNETTEKİ İÇERİKLERİNİZİN KONTROLÜNÜ ELE ALIN
 PRIVACY FOR KIDS
@@ -408,7 +408,7 @@ TEAM: DATA INTRUDERS
 TAKIM: VERİ CASUSLARI
 
 POWERS: He has mystical powers to intercept what you do online. He can pretend to be a legitimate person online and then use this to hack right into your communications, to read your messages, see your photos and watch your videos.
-GÜÇLERİ: İnternette yaptıklarınızla aranıza girebilmek gibi sihirli bir özelliği var. Gerçek bir kişiymiş gibi davranır, ardından bu numarayı doğruca iletişiminize girmek, mesajlarınızı okumak, fotoğraflarınıza bakmak ve videolarınızı izlemek için kullanır.
+GÜÇLERİ: İnternette yaptıklarınızla aranıza girebilmek gibi sihirli bir özelliği var. Gerçek bir kişiymiş gibi davranır, ardından bu numarayı doğruca iletişiminize sızmak, mesajlarınızı okumak, fotoğraflarınıza bakmak ve videolarınızı izlemek için kullanır.
 
 WEAPONS: His suit and antennas.
 SİLAHLAR: Kostümü ve antenleri.
