@@ -569,7 +569,7 @@ SİLAHLAR: Rakiplerini şaşırtmak için elektrostatik veri ağını kullanır.
 [U] …I can protect myself by not allowing cookies and not storing my browser 
 history.
 [A] ...Kendimi cookielere izin vermeyerek ve tarayıcı geçmişimi saklamayarak 
-kotuyabilirim
+koruyabilirim.
 [Y] …being too careful is just paranoid, because I have nothing to hide.
 [C] ...çok dikkatli olmak sadece paranoyaklık olur, saklayacak hiçbir şeyim 
 yok ki.
